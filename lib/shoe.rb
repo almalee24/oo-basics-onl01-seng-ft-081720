@@ -7,5 +7,5 @@ class Shoe
   end
   
   def cobble 
-    puts 
+    puts "the"
 end
